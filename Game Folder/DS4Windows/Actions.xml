@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Special Actions Configuration Data. 03/12/2021 16:04:10 -->
+<Actions>
+  <Action Name="Disconnect Controller">
+    <Trigger>Options</Trigger>
+    <Type>DisconnectBT</Type>
+    <Details>10</Details>
+  </Action>
+  <Action Name="battery ">
+    <Trigger>Share</Trigger>
+    <Type>BatteryCheck</Type>
+    <Details>10|False|True|255|0|0|0|255|0</Details>
+  </Action>
+</Actions>

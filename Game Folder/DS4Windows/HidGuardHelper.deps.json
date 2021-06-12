@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HidGuardHelper/0.2.1": {
+        "dependencies": {
+          "UtilLibrary": "1.0.0"
+        },
+        "runtime": {
+          "HidGuardHelper.dll": {}
+        }
+      },
+      "UtilLibrary/1.0.0": {
+        "runtime": {
+          "UtilLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HidGuardHelper/0.2.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UtilLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,65 @@
+2021-05-21 00:45:46.8265|INFO|DS4Windows version 3.0.5
+2021-05-21 00:45:46.8325|INFO|DS4Windows exe file: DS4Windows.exe
+2021-05-21 00:45:46.8325|INFO|DS4Windows Assembly Architecture: x64
+2021-05-21 00:45:46.8325|INFO|OS Version: Microsoft Windows NT 10.0.19042.0
+2021-05-21 00:45:46.8325|INFO|OS Product Name: Windows 10 Pro
+2021-05-21 00:45:46.8325|INFO|OS Release ID: 2009
+2021-05-21 00:45:46.8325|INFO|System Architecture: x64
+2021-05-21 00:45:46.8325|INFO|Logger created
+2021-05-21 00:45:48.7581|INFO|Running as User
+2021-05-21 00:45:49.9600|INFO|Starting...
+2021-05-21 00:45:49.9600|INFO|Connection to ViGEmBus 1.17.333.0 established
+2021-05-21 00:45:49.9600|INFO|Searching for controllers...
+2021-05-21 00:45:49.9600|INFO|Using Shared Mode
+2021-05-21 01:20:46.7509|WARN|WARNING: Failed to read serial# from a gamepad (0x054C/0x05C5). Generating MAC address from a device path. From now on you should connect this gamepad always into the same USB port or BT pairing host to keep the same device path.
+2021-05-21 01:20:46.7659|INFO|Found Controller: F0:0B:EE:00:00:00 (USB) (CronusMax (PS4 Mode))
+2021-05-21 01:20:46.9341|INFO|Associate X360 Controller for input DS4 #1
+2021-05-21 01:20:46.9651|INFO|Controller 1 is using Profile "kimmy1". Battery level is 100%
+2021-05-25 02:53:39.5140|INFO|Disassociate X360 Controller for input DS4 #1
+2021-05-25 02:53:39.5711|INFO|Controller 1 was removed or lost connection
+2021-05-25 13:59:24.8374|WARN|WARNING: Failed to read serial# from a gamepad (0x054C/0x05C5). Generating MAC address from a device path. From now on you should connect this gamepad always into the same USB port or BT pairing host to keep the same device path.
+2021-05-25 13:59:24.8374|INFO|Found Controller: F0:0B:EE:00:00:00 (USB) (CronusMax (PS4 Mode))
+2021-05-25 13:59:24.8853|INFO|Associate X360 Controller for input DS4 #1
+2021-05-25 13:59:24.8853|INFO|Controller 1 is using Profile "kimmy1". Battery level is 100%
+2021-05-25 14:51:12.3751|WARN|Controller 1's latency over 10ms (51.8 ms)
+2021-05-25 14:51:12.4161|INFO|Controller 1's latency now under 10ms
+2021-05-25 18:24:54.9129|INFO|Disassociate X360 Controller for input DS4 #1
+2021-05-25 18:24:54.9230|INFO|Controller 1 was removed or lost connection
+2021-05-25 21:29:56.1793|WARN|WARNING: Failed to read serial# from a gamepad (0x054C/0x05C5). Generating MAC address from a device path. From now on you should connect this gamepad always into the same USB port or BT pairing host to keep the same device path.
+2021-05-25 21:29:56.1793|INFO|Found Controller: F0:0B:EE:00:00:00 (USB) (CronusMax (PS4 Mode))
+2021-05-25 21:29:56.2379|INFO|Associate X360 Controller for input DS4 #1
+2021-05-25 21:29:56.2396|INFO|Controller 1 is using Profile "kimmy1". Battery level is 100%
+2021-05-26 01:20:35.7475|INFO|Disassociate X360 Controller for input DS4 #1
+2021-05-26 01:20:35.7475|INFO|Controller 1 was removed or lost connection
+2021-05-26 12:41:55.8018|WARN|WARNING: Failed to read serial# from a gamepad (0x054C/0x05C5). Generating MAC address from a device path. From now on you should connect this gamepad always into the same USB port or BT pairing host to keep the same device path.
+2021-05-26 12:41:55.8018|INFO|Found Controller: F0:0B:EE:00:00:00 (USB) (CronusMax (PS4 Mode))
+2021-05-26 12:41:55.8468|INFO|Associate X360 Controller for input DS4 #1
+2021-05-26 12:41:55.8500|INFO|Controller 1 is using Profile "kimmy1". Battery level is 100%
+2021-05-28 15:52:56.9960|INFO|Disassociate X360 Controller for input DS4 #1
+2021-05-28 15:52:56.9960|INFO|Controller 1 was removed or lost connection
+2021-05-28 15:52:58.9907|WARN|WARNING: Failed to read serial# from a gamepad (0x054C/0x05C5). Generating MAC address from a device path. From now on you should connect this gamepad always into the same USB port or BT pairing host to keep the same device path.
+2021-05-28 15:52:58.9907|INFO|Found Controller: F0:0B:EE:00:00:00 (USB) (CronusMax (PS4 Mode))
+2021-05-28 15:52:59.0165|INFO|Associate X360 Controller for input DS4 #1
+2021-05-28 15:52:59.0165|INFO|Controller 1 is using Profile "kimmy1". Battery level is 100%
+2021-05-30 01:21:55.2307|INFO|Disassociate X360 Controller for input DS4 #1
+2021-05-30 01:21:55.2307|INFO|Controller 1 was removed or lost connection
+2021-05-30 03:46:17.2212|INFO|Stopping Virtual Output Controllers
+2021-05-30 03:46:17.2244|INFO|Closing connection to ViGEmBus
+2021-05-30 03:46:17.2244|INFO|Stopping DS4 Input Controllers
+2021-05-30 03:46:17.2244|INFO|Stopped DS4Windows
+2021-05-30 13:15:04.1323|INFO|Starting...
+2021-05-30 13:15:04.1323|INFO|Connection to ViGEmBus 1.17.333.0 established
+2021-05-30 13:15:04.1323|INFO|Searching for controllers...
+2021-05-30 13:15:04.1323|INFO|Using Shared Mode
+2021-05-30 19:48:52.5182|WARN|WARNING: Failed to read serial# from a gamepad (0x054C/0x05C5). Generating MAC address from a device path. From now on you should connect this gamepad always into the same USB port or BT pairing host to keep the same device path.
+2021-05-30 19:48:52.5248|INFO|Found Controller: F0:0B:EE:00:00:00 (USB) (CronusMax (PS4 Mode))
+2021-05-30 19:48:52.5718|INFO|Associate X360 Controller for input DS4 #1
+2021-05-30 19:48:52.5718|INFO|Controller 1 is using Profile "kimmy1". Battery level is 100%
+2021-06-01 03:35:26.2110|INFO|Disassociate X360 Controller for input DS4 #1
+2021-06-01 03:35:26.2110|INFO|Unplugging virtual X360 Controller
+2021-06-01 03:35:26.2233|INFO|Controller 1 was removed or lost connection
+2021-06-01 03:37:51.0682|INFO|Request App Shutdown
+2021-06-01 03:37:51.0682|INFO|Stopping Virtual Output Controllers
+2021-06-01 03:37:51.0682|INFO|Closing connection to ViGEmBus
+2021-06-01 03:37:51.0682|INFO|Stopping DS4 Input Controllers
+2021-06-01 03:37:51.0682|INFO|Stopped DS4Windows

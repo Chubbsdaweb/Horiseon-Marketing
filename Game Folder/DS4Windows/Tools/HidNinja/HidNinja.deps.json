@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HidNinja/0.3.2": {
+        "runtime": {
+          "HidNinja.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HidNinja/0.3.2": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

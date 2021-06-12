@@ -1,0 +1,24 @@
+2021-06-07 01:41:38.5500|INFO|DS4Windows version 3.0.5
+2021-06-07 01:41:38.5500|INFO|DS4Windows exe file: DS4Windows.exe
+2021-06-07 01:41:38.5500|INFO|DS4Windows Assembly Architecture: x64
+2021-06-07 01:41:38.5500|INFO|OS Version: Microsoft Windows NT 10.0.19042.0
+2021-06-07 01:41:38.5500|INFO|OS Product Name: Windows 10 Pro
+2021-06-07 01:41:38.5500|INFO|OS Release ID: 2009
+2021-06-07 01:41:38.5500|INFO|System Architecture: x64
+2021-06-07 01:41:38.5500|INFO|Logger created
+2021-06-07 01:41:40.4067|INFO|Running as User
+2021-06-07 01:41:41.6091|INFO|Starting...
+2021-06-07 01:41:41.6091|INFO|Connection to ViGEmBus 1.17.333.0 established
+2021-06-07 01:41:41.6091|INFO|Searching for controllers...
+2021-06-07 01:41:41.6091|INFO|Using Shared Mode
+2021-06-07 01:41:41.6689|WARN|WARNING: Failed to read serial# from a gamepad (0x054C/0x05C5). Generating MAC address from a device path. From now on you should connect this gamepad always into the same USB port or BT pairing host to keep the same device path.
+2021-06-07 01:41:41.6812|INFO|Found Controller: F0:0B:EE:00:00:00 (USB) (CronusMax (PS4 Mode))
+2021-06-07 01:41:41.8387|INFO|Associate X360 Controller for input DS4 #1
+2021-06-07 01:41:41.8675|INFO|Controller 1 is using Profile "kimmy1". Battery level is 100%
+2021-06-07 01:41:48.4142|INFO|Request App Shutdown
+2021-06-07 01:41:48.4142|INFO|Stopping Virtual Output Controllers
+2021-06-07 01:41:48.4142|INFO|Closing connection to ViGEmBus
+2021-06-07 01:41:48.4830|INFO|Disassociate X360 Controller for input DS4 #1
+2021-06-07 01:41:48.4830|INFO|Unplugging virtual X360 Controller
+2021-06-07 01:41:48.4830|INFO|Stopping DS4 Input Controllers
+2021-06-07 01:41:48.4830|INFO|Stopped DS4Windows
